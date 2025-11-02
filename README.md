@@ -12,8 +12,4 @@ Features :
 ✅ Clean and interactive dashboard layout
 
 Technologies Used :
-Component	                      Technology 
-GUI Framework                  	Tkinter 
-Data Handling                   Pandas, NumPy 
-Data Visualization	            Matplotlib
-Language Used	                  Python
+GUI Framework = Tkinter, Data Handling = Pandas & NumPy , Data Visualization = Matplotlib , Language Used = Python
