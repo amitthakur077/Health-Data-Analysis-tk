@@ -29,7 +29,7 @@ The project uses **Tkinter** for GUI, **Pandas & NumPy** for data analysis, and 
 ---
 
 ## 🧠 Learning Outcomes
-- Built a real-time GUI desktop application using **Tkinter**
+- Built a real-time GUI desktop using **Tkinter**
 - Performed dataset analysis using **Pandas & NumPy**
 - Embedded **Matplotlib charts** inside Tkinter window
 - Enhanced Python development + data visualization skills
